@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rupam.ghosh/repositories/TaskExecutor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/rupam.ghosh/repositories/TaskExecutor/app/build/intermediates/pre-dexed/androidTest/debug/internal_impl-23.1.1_cd5842aa2036ffab29faa973eed5829483d0f7e1.jar" />
+    </item>
+    <item
+        jar="/Users/rupam.ghosh/repositories/TaskExecutor/app/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bdc919714290420325940d9181f5b6c09fc429bb">
+        <dex dex="/Users/rupam.ghosh/repositories/TaskExecutor/app/build/intermediates/pre-dexed/androidTest/debug/classes_b203c1ee6f48d80a90b7685199c5730cc886ae04.jar" />
+    </item>
+    <item
+        jar="/Users/rupam.ghosh/repositories/TaskExecutor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/rupam.ghosh/repositories/TaskExecutor/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support-support-v4-23.1.1_d1519c0d68718d804449595696f652c607fd99a0.jar" />
+    </item>
+    <item
+        jar="/Users/rupam.ghosh/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/rupam.ghosh/repositories/TaskExecutor/app/build/intermediates/pre-dexed/androidTest/debug/support-annotations-23.1.1_02699055fd9b3676018d78e8a0791cedf25231cd.jar" />
+    </item>
+
+</items>
